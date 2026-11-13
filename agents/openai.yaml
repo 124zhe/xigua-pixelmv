@@ -1,0 +1,4 @@
+interface:
+  display_name: "Xigua 像素动画 MV"
+  short_description: "制作有创意分镜、完整小人动作和跳动歌词的原创像素音乐动画"
+  default_prompt: "使用 $xigua-pixelmv，根据这首歌设计有新意的分镜，并制作带原曲、动作和跳动歌词的像素动画 demo。"

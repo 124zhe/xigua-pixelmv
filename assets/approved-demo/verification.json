@@ -1,0 +1,38 @@
+{
+  "file": "如果是我-像素动画新分镜Demo.mp4",
+  "container_duration": 30.625,
+  "composition_duration": 30.6,
+  "source_range": [
+    46.5,
+    77.1
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": "24/1",
+  "frames": 735,
+  "audio_codec": "aac",
+  "audio_correlation": 0.9990472696341217,
+  "full_decode": "passed",
+  "render_engine": "HyperFrames 0.8.181",
+  "render_path": "screenshot capture, hardware GPU",
+  "scene_logical_resolution": [
+    960,
+    540
+  ],
+  "generated_atlases": {
+    "boat": [
+      1774,
+      887
+    ],
+    "people": [
+      1448,
+      1086
+    ]
+  },
+  "caption_timing": "existing canonical per-character timing",
+  "reference_footage_used": false,
+  "external_asset_uploads": false,
+  "coverage": "approved storyboard 09-16, demo only; not the full MV"
+}

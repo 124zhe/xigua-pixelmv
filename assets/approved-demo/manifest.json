@@ -1,0 +1,40 @@
+{
+  "accepted_on": "2026-10-21",
+  "accepted_by": "user explicit positive feedback after viewing demo",
+  "source_range": [
+    46.5,
+    77.1
+  ],
+  "duration": 30.6,
+  "lyric_cues": 8,
+  "files": {
+    "boat-atlas.png": {
+      "bytes": 940780,
+      "sha256": "3eea7ea16799fd1705237cc13ae7de2a7226e5e048e1eb8ed6b4837c4d40e463"
+    },
+    "contact-sheet.jpg": {
+      "bytes": 594191,
+      "sha256": "ac28c1738643757df109e3513dc3ed1129e1befab5684b0f1d975b4479e08ca2"
+    },
+    "engine.js": {
+      "bytes": 20041,
+      "sha256": "e3e111fc1ed33c3bcb1c3933685cc7f5865ba1b6b65f6497929a1d64b7f1c472"
+    },
+    "lyrics-motion.js": {
+      "bytes": 1396,
+      "sha256": "eb19cfdfd9c70e235f16265c629f811fae5dd3fe6f70e98952f644680cdc97c8"
+    },
+    "people-atlas.png": {
+      "bytes": 853866,
+      "sha256": "461e2498eae66c4dc30b57e80a3b20ebbca2bb6dbd5cf0d8f3fe9d0bdb1a47ed"
+    },
+    "poster.png": {
+      "bytes": 392524,
+      "sha256": "866d7e1ab0a037673964a87be1a56216d082ec113783233f391a0222b6c1aca4"
+    },
+    "verification.json": {
+      "bytes": 844,
+      "sha256": "ff816e4275848c3c2d4d388e3deadf6bf2ee2165d59e9849dfeb3315013e067a"
+    }
+  }
+}

@@ -1,0 +1,4 @@
+* text=auto eol=lf
+
+# Preserve the exact baseline bytes checked by manifest.json.
+assets/approved-demo/* -text
